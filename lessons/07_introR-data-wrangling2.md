@@ -3,11 +3,19 @@ title: "Data wrangling: dataframes, matrices, and lists"
 authors: Meeta Mistry, Mary Piper
 date: "Tuesday, April, 21, 2020"
 ---
-Approximate time: 60 min
 
 ## Learning Objectives
 
 * Demonstrate how to subset, merge, and create new datasets from existing data structures in R.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Wrangling of Two-Dimensional Data Structures Using Indices](https://projects.iq.harvard.edu/hcatrresource/segment-4-wrangling-two-dimensional-data-structures-using-indices)
+* [Subsetting Two-Dimensional Data Structures Using Logical Expressions](https://projects.iq.harvard.edu/hcatrresource/segment-5-subsetting-two-dimensional-data-structures-using-logical-expressions)
+* [Extracting Data from Lists](https://projects.iq.harvard.edu/hcatrresource/segment-6-extracting-data-lists)
 
 ### Dataframes
 

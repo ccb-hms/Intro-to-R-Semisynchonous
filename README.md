@@ -5,7 +5,7 @@
 | Biologists | None | ~10 hours |
 
 ### Description
-This is a copy of the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/)'s **Introduction to R** workshop for the semi-synchonous CCB-hosted workshop session.
+This is a fork of the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/)'s **Introduction to R** workshop for the semi-synchonous CCB-hosted workshop session.
  
 This repository has teaching materials for a hands-on **Introduction to R** workshop taught online. The workshop will introduce participants to the basics of R and RStudio. R is a simple programming environment that enables the effective handling of data, while providing excellent graphical support. RStudio is a tool that provides a user-friendly environment for working with R. These materials are intended to provide both basic R programming knowledge and its application for increasing efficiency for data analysis. 
 
@@ -17,8 +17,7 @@ This repository has teaching materials for a hands-on **Introduction to R** work
 4. **Data visualization**: Apply the ggplot2 package to create plots for data visualization.
 
 ### Lessons
-* [Workshop schedule (trainer-led learning)](schedules/workshop_schedule.md)
-* [Self-learning](schedules/links-to-lessons.md)
+* [Individual lessons can be found here](schedules/links-to-lessons.md)
 
 ### Installation Requirements
 

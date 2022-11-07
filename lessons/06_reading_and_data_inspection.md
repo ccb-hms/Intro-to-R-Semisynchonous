@@ -9,6 +9,14 @@ authors: Meeta Mistry, Mary Piper, Radhika Khetani
 * Demonstrate how to read existing data into R
 * Utilize base R functions to inspect data structures
 
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* (0:00-7:21 only) [Importing and Exporting Data](https://projects.iq.harvard.edu/hcatrresource/importing-and-exporting-data)
+* [Inspecting Data Structures](https://projects.iq.harvard.edu/hcatrresource/segment-1-inspecting-data-structures)
+
 ## Reading data into R
 
 ### The basics

@@ -3,11 +3,18 @@ title: Troubleshooting and finding help
 author: Data Carpentry contributors, Mary Piper
 date: "Wednesday, April 22, 2020"
 ---
-Approximate time: 30 min
 
 ## Learning Objectives
 
 * Identify different R-specific external sources to help with troubleshooting errors and obtaining more information about functions and packages.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Troubleshooting](https://projects.iq.harvard.edu/hcatrresource/segment-2-getting-help-r)
+
 
 ## Asking for help
 

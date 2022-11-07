@@ -3,7 +3,6 @@ title: Functions in R
 author: Data Carpentry contributors
 date: "Friday, September 8, 2017"
 ---
-Approximate time: 30 min
 
 ## Learning Objectives
 
@@ -11,6 +10,15 @@ Approximate time: 30 min
 * Modify default behavior of a function using arguments.
 * Identify R-specific sources of obtaining more information about functions.
 * Demonstrate how to create user-defined functions in R
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Working with Functions in R ](https://projects.iq.harvard.edu/hcatrresource/segment-1-working-functions-r)
+* [Introduction to Basic Data Structures ](https://projects.iq.harvard.edu/hcatrresource/segment-2-introduction-basic-data-structures)
+* [Creating Your Own Functions in R ](https://projects.iq.harvard.edu/hcatrresource/segment-2-creating-your-own-functions-r)
 
 ## Functions and their arguments
 

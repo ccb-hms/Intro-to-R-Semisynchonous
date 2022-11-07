@@ -3,12 +3,20 @@ title: R Syntax and Data Structures
 authors: Meeta Mistry, Mary Piper
 date: "Tuesday, April 21, 2020"
 ---
-Approximate time: 70 min
 
 ## Learning Objectives
 
 * Describe frequently-used data types in R. 
 * Construct data structures to store data.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Introduction to R Variables ](https://projects.iq.harvard.edu/hcatrresource/segment-2-introduction-r-variables)
+* [Introduction to Basic Data Structures ](https://projects.iq.harvard.edu/hcatrresource/segment-2-introduction-basic-data-structures)
+* [Introduction to Complex Data Structures](https://projects.iq.harvard.edu/hcatrresource/segment-3-introduction-complex-data-structures)
 
 ## Data Types
 

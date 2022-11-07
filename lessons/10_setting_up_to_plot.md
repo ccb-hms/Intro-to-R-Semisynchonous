@@ -4,10 +4,16 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani"
 date: "Wednesday, December 4, 2019"
 ---
 
-
 ## Learning Objectives 
 
 * Describe the `map()` function for iterative tasks on data structures.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Setting Up for Plotting](https://projects.iq.harvard.edu/hcatrresource/segment-1-setting-plotting)
 
 ## Setting up a data frame for visualization
 

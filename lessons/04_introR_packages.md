@@ -3,12 +3,19 @@ title: Packages and libraries
 author: Data Carpentry contributors
 date: "Thursday, April 23, 2020"
 ---
-Approximate time: 25 min
 
 ## Learning Objectives
 
 * Explain different ways to install external R packages
 * Demonstrate how to load a library and how to find functions specific to a package 
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Packages and Libraries](https://projects.iq.harvard.edu/hcatrresource/segment-1-packages-and-libraries)
+
 
 ## Packages and Libraries
 

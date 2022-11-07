@@ -4,13 +4,18 @@ authors: Meeta Mistry, Mary Piper, Jihe Liu
 date: "Wednesday, April 22, 2020"
 ---
 
-Approximate time: 45 min
-
 
 ## Learning Objectives
 
 * Describe the use of `%in%` operator.
 * Explain the user case for `any` and `all` functions.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Finding Overlap Between Vectors Using the %in% Operator](https://projects.iq.harvard.edu/hcatrresource/segment-1-finding-overlap-between-vectors-using-operator)
 
 ## Logical operators for identifying matching elements 
 

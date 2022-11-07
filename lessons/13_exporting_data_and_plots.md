@@ -4,12 +4,18 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani"
 date: "Thursday, April 23, 2020"
 ---
 
-Approximate time: 30 minutes
 
 ## Learning Objectives 
 
-
 * Describe how to export data tables and plots for use outside of the R environment.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* (7:21 - 18:21 only) [Importing and Exporting Data](https://projects.iq.harvard.edu/hcatrresource/importing-and-exporting-data)
+
 
 ## Writing data to file 
 

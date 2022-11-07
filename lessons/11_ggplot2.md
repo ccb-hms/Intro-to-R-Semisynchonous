@@ -4,12 +4,17 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani"
 date: "Wednesday, December 4, 2019"
 ---
 
-Approximate time: 60 minutes
-
 ## Learning Objectives 
 
 * Explain the syntax of ggplot2
 * Apply ggplot2 package to visualize data.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Basics of ggplot2](https://projects.iq.harvard.edu/hcatrresource/segment-2-basics-ggplot2)
 
 ## Data Visualization with `ggplot2`
 

@@ -3,7 +3,6 @@ title: Introduction to R and RStudio
 authors: Mary Piper, Meeta Mistry
 date: "Friday, September 8, 2017"
 ---
-Approximate time: 45 minutes
 
 ## Learning Objectives
 
@@ -11,6 +10,16 @@ Approximate time: 45 minutes
 * Interact with R using RStudio.
 * Familiarize various components of RStudio.
 * Employ variables in R.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Welcome/Overview](https://projects.iq.harvard.edu/hcatrresource/segment-1-overview)
+* [Introduction to R and RStudio ](https://projects.iq.harvard.edu/hcatrresource/segment-2-introduction-r-and-rstudio)
+* [Getting Started in RStudio ](https://projects.iq.harvard.edu/hcatrresource/segment-1-getting-started-rstudio)
+* [Interacting with R ](https://projects.iq.harvard.edu/hcatrresource/segment-2-interacting-r)
 
 ## What is R?
 

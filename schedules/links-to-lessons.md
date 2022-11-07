@@ -7,6 +7,14 @@
 3. **Data inspection and wrangling**: Demonstrate the utilization of functions and indices to inspect and subset data from various data structures.
 4. **Visualizing data**: Demonstrate the use of the ggplot2 package to create plots for easy data visualization.
 
+## How to Get Help
+
+The fastest way to get help is to use the workshop's Slack workspace, which you can join using [this link](https://join.slack.com/t/ccb-intro-to-r/shared_invite/zt-1j8e9rmb7-P~1dQGuSGlwIUS6wedB8bw).
+
+In the slack you can ask questions, answer questions asked by other participants, and get other support and resources. I will do my best to answer all questions within 24 hours, typically much faster, but helping to answer questions posted by other participants will also aid you in your learning. 
+
+You can also feel free to [send an email](mailto:christopher_magnano@hms.harvard.edu) or attend office hours (specific office hour times will be emailed and advertised on slack). If you cannot make office hours, we can set up an alternate time to meet. 
+
 ## Installations
 
 Download the most recent versions of R and RStudio:
@@ -14,51 +22,63 @@ Download the most recent versions of R and RStudio:
  - [R](https://cran.r-project.org/) 
  - [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
+## Overview
+
+This workshop consists of 3 parts. Each part has a set of lessons and exercises. 
+In Part I will you will learn the syntax of the R programming language and basic functionality such as file I/O and data structures. 
+In Part II you will learn how to manipulate, wrangle, and subset data. 
+In Part III you will learn how to create data visualizations, get help, and be introduced to the R Tidyverse set of packages. 
+
+In addition to the text lessons with accompanying code examples, we will also be making use of the [R Catalyst Introduction to R Online Resource](https://catalyst.harvard.edu/courses/intro-to-r/). 
+These are a set of video lessons and materials which parallel the structure of the main workshop, and require a Harvard Key login to access. 
+Relevant video links are provided for each lesson as a supplement to the main workshop.
+These videos provide a slightly different perspective on the workshop materials and allow you to vary your learning between reading and watching/listening. 
+
+It can be difficult to commit to and complete self-learning materials. 
+
 ## Lessons
 
-### Part 1
-1. [Introduction to R and RStudio](../lessons/01_introR-R-and-RStudio.md)
-2. [R Syntax and Data Structure](https://hbctraining.github.io/Intro-to-R-flipped/lessons/02_introR-syntax-and-data-structures.html)
-3. [Functions and Arguments](../lessons/03_introR-functions-and-arguments.md)
-4. [Reading in and inspecting data](../lessons/06_reading_and_data_inspection.md)
-     
-* [Solution to exercises in above lessons](../homework/day1_hw_answer-key.R)
-          
-| [Practice exercises I](../activities/Day2_activities.md) | [Answer key I](../activities/Day2_activities_answer_key.R) |
+I. [Access Part I Here](./links-part-1.md)
+
+* 1.1 Introduction to R and RStudio
+* 1.2 R Syntax and Data Structures
+* 1.3 Functions and Arguments
+* 1.4 Reading in and inspecting data
 
 ***
 
-### Part II
-5. [Data Wrangling: Subsetting Vectors and Factors](../lessons/05_introR-data-wrangling.md)
-5. [Packages and libraries](../lessons/04_introR_packages.md)
-6. [Data wrangling: data frames, matrices and lists](../lessons/07_introR-data-wrangling2.md)
-7. [The %in% operator](../lessons/08_identifying-matching-elements.md)
-8. [Reordering and matching](../lessons/09_reordering-to-match-datasets.md)
-9. [Setting up a data frame to plot (+ the `map()` function)](../lessons/10_setting_up_to_plot.md)
-     
-* [Solution to exercises in above lessons](../homework/day2_hw_answer-key.R)
+II. [Access Part II Here](./links-part-2.md)
 
-| [Practice exercises II](../activities/Day3_activities.md) | [Answer key II](../activities/Day3_activities_answer_key.R) |
-              
+   * 2.1 Data Wrangling: Subsetting Vectors and Factors
+   * 2.2 Packages and libraries
+   * 2.3 Data wrangling: data frames, matrices and lists
+   * 2.4 The %in% operator
+   * 2.5 Reordering and matching
+   * 2.6 Setting up a data frame to plot (+ the `map()` function)
+
 ***
 
-### Part III
-10. [Plotting with the ggplot2 package](../lessons/11_ggplot2.md)
-1. [Using custom functions for consistent plots](../lessons/11b_Custom_Functions_ggplot2.md)
-1. [Generating a boxplot with ggplot2](../lessons/12_boxplot_exercise.md)
-1. [Writing to file and exporting plots](../lessons/13_exporting_data_and_plots.md)
-1. [Finding help](../lessons/14_finding_help.md)
-1. [Tidyverse](../lessons/15_tidyverse.md)
-    
-* [Solution to exercises in above lessons](../homework/day1_hw_answer-key.R)
-    
-| [Practice exercises III](../activities/Day4_activities.md) | [Answer key III](../activities/Day4_activities_answer_key.R) |
+II. [Access Part III Here](./links-part-3.md)
 
-| [Practice exercises IV](https://hbctraining.github.io/Intro-to-R/homework/Intro_to_R_hw.html) | [Answer key IV](../Intro-to-R/homework/Intro_to_R_key.md) |
+* 3.1. Plotting with the ggplot2 package
+* 3.2 Using custom functions for consistent plots
+* 3.3 Generating a boxplot with ggplot2
+* 3.4 Writing to file and exporting plots
+* 3.5 Finding help
+* 3.6 Tidyverse
+
+***
+
+### Additional Practice
+| [Practice exercises IV](../homework/Intro_to_R_hw.md) | [Answer key IV](../homework/Intro_to_R_key.md) |
+
+### Exercises Answer Keys
+    It is highly recommended that you attempt each part's exercises before viewing the answer keys. 
+    * [Answer key I](../activities/Day2_activities_answer_key.R) 
+    * [Answer key II](../activities/Day3_activities_answer_key.R) 
+    * [Answer key III](../activities/Day4_activities_answer_key.R)
 
 *** 
-
-***
 
 ## Building on the basic R knowledge
 * [DGE workshop](https://hbctraining.github.io/DGE_workshop_salmon/)

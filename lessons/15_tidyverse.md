@@ -3,11 +3,13 @@ title: Tidyverse data wrangling
 author: Mary Piper, Jihe Liu, Meeta Mistry, Radhika Khetani, Will Gammerdinger
 ---
 
-Approximate time: 75 minutes
-
 ## Learning Objectives 
 
 * Perform basic data wrangling with functions in the Tidyverse package.
+
+## Video Segments
+
+None
 
 # Data Wrangling with Tidyverse
 

@@ -1,4 +1,4 @@
-# Day 3 Activities
+# Part II Exercises
 
 ## Reading in and inspecting data
 

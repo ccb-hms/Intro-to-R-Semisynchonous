@@ -4,11 +4,16 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani, Will Gammerdinger"
 date: "Wednesday, February 4, 2021"
 ---
 
-Approximate time: 20 minutes
-
 ## Learning Objectives 
 
 * Apply the custom function to generate consistent plots.
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Altering the Appearance of Plots](https://projects.iq.harvard.edu/hcatrresource/segment-3-altering-appearance-plots)
 
 ## Consistent formatting using custom functions
 

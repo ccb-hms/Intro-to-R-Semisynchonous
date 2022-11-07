@@ -1,4 +1,4 @@
-# Day 2 Activities - Answer Key
+# Part 1 Exercises - Answer Key
 
 # 1. Custom Functions - Let's create a function temp_conv(), which converts the temperature in Fahrenheit (input) to the temperature in Kelvin (output). 
 #    * We could perform a two-step calculation: first convert from Fahrenheit to Celsius, and then convert from Celsius to Kelvin. 

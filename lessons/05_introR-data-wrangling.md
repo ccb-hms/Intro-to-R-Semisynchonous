@@ -3,7 +3,6 @@ title: 'Data subsetting with base R: vectors and factors'
 date: "Friday, September 8, 2017"
 authors: Meeta Mistry, Mary Piper, Radhika Khetani
 ---
-Approximate time: 60 min
 
 ## Learning Objectives
 
@@ -11,6 +10,13 @@ Approximate time: 60 min
 * Explain the use of logical operators when subsetting vectors and factors
 * Demonstrate how to relevel factors in a desired order
 
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Selecting Data Using Indices and Sequences](https://projects.iq.harvard.edu/hcatrresource/segment-2-selecting-data-using-indices-and-sequences)
+* [Subsetting One-Dimensional Data Structures Using Logical Expressions](https://projects.iq.harvard.edu/hcatrresource/segment-3-subsetting-one-dimensional-data-structures-using-logical-expressions)
 
 ## Selecting data using indices and sequences
 

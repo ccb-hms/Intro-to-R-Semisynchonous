@@ -4,11 +4,17 @@ author: "Mary Piper, Meeta Mistry, Radhika Khetani"
 date: "Wednesday, December 4, 2019"
 ---
 
-Approximate time: 60 minutes
-
 ## Learning Objectives 
 
 * Generate the box plot using ggplot2
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Creating a Boxplot](https://projects.iq.harvard.edu/hcatrresource/segment-4-creating-boxplot)
+
 
 ## Generating a Boxplot with ggplot2
 

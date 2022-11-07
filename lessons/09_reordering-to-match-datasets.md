@@ -3,13 +3,19 @@ title: "Advanced R, reordering to match datasets"
 authors: Meeta Mistry, Mary Piper
 date: "Wednesday, April 22, 2020"
 ---
-Approximate time: 45 min
 
 
 ## Learning Objectives
 
 * Implement manual reordering of vectors and data frames
 * Utilize the `match()` function to reorder vectors and data frames so that unique identifiers are in the same order
+
+## Video Segments
+
+These video segments parallel the content of this lesson as a supplement or alternate way to learn. 
+**You can choose to go through the lesson on this page, watch the videos, or both.**
+
+* [Reordering and Matching Datasets](https://projects.iq.harvard.edu/hcatrresource/segment-2-reordering-and-matching-datasets)
 
 ## Reordering data to match
 

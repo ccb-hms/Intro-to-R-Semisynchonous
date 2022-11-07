@@ -68,13 +68,16 @@ II. [Access Part III Here](./links-part-3.md)
 ***
 
 ### Additional Practice
-| [Practice exercises IV](../homework/Intro_to_R_hw.md) | [Answer key IV](../homework/Intro_to_R_key.md) |
+* [Practice exercises IV](../homework/Intro_to_R_hw.md) 
+* [Answer key IV](../homework/Intro_to_R_key.md) 
 
 ### Exercises Answer Keys
-    It is highly recommended that you attempt each part's exercises before viewing the answer keys. 
-    * [Answer key I](../activities/Day2_activities_answer_key.R) 
-    * [Answer key II](../activities/Day3_activities_answer_key.R) 
-    * [Answer key III](../activities/Day4_activities_answer_key.R)
+
+It is highly recommended that you attempt each part's exercises before viewing the answer keys. 
+
+* [Answer key I](../activities/Day2_activities_answer_key.R) 
+* [Answer key II](../activities/Day3_activities_answer_key.R) 
+* [Answer key III](../activities/Day4_activities_answer_key.R)
 
 *** 
 

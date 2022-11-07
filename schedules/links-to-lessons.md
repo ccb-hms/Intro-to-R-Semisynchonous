@@ -34,8 +34,6 @@ These are a set of video lessons and materials which parallel the structure of t
 Relevant video links are provided for each lesson as a supplement to the main workshop.
 These videos provide a slightly different perspective on the workshop materials and allow you to vary your learning between reading and watching/listening. 
 
-It can be difficult to commit to and complete self-learning materials. 
-
 ## Lessons
 
 I. [Access Part I Here](./links-part-1.md)

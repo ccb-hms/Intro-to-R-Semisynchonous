@@ -1,3 +1,5 @@
+# Part 3 In-Lesson Exercises
+
 ## ggplot2 exercise
 
 # Creating a boxplot

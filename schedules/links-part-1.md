@@ -4,7 +4,6 @@
 
 1.1 [Introduction to R and RStudio](../lessons/01_introR-R-and-RStudio.md)
     <details>
-    <summary><i>Click here for a preview of this lesson</i></summary>
         <br>R is a programming language and larger system for data analysis, and RStudio is the most popular to use R. <br><br>This lesson will cover:<br>
             - The definitions of R and RStudio<br>
             - How to interact with R and RStudio<br>
@@ -13,7 +12,6 @@
 
 1.2 [R Syntax and Data Structure](../lessons/02_introR-syntax-and-data-structures.md)
     <details>
-    <summary><i>Click here for a preview of this lesson</i></summary>
         <br>In order to utilize R effectively, you will need to understand what types of data you can use in R and also how you can store data in "objects" or "variables". <br><br>This lesson will cover:<br>
             - Assigning a value to a object<br>
             - What types of information can you store in R<br>
@@ -22,23 +20,21 @@
 
 1.3 [Functions and Arguments](../lessons/03_introR-functions-and-arguments.md)
     <details>
-    <summary><i>Click here for a preview of this lesson</i></summary>
         <br>Functions are the basic "commands" used in R to get something done. To use functions (denoted by function_name followed by "()"), one has to enter some information within the parenthesis and optionally some arguments to change the default behavior of a function. 
         <br>You can also create your own functions! When you want to perform a task or a series of tasks more than once, creating a custom function is the best way to go. 
         <br><br>In this lesson you will explore:<br>
         - Using built-in functions<br>
         - Creating your own custom functions<br><br>
-        </details>
+    </details>
 
 1.4 [Reading in and inspecting data](../lessons/06_reading_and_data_inspection.md)
     <details>
-    <summary><i>Click here for a preview of this lesson</i></summary>
         <br>When using R, it is almost a certainty that you will have to bring data into the R environment. <br><br>In this lesson you will learn:<br>
         - Reading different types (formats) of data<br>
         - Inspecting the contents and structure of the dataset once you have read it in<br><br>
     </details>
 
-* [Solution to exercises in above lessons](../homework/day1_hw_answer-key.R)
+[Solution to exercises in above lessons](../homework/day1_hw_answer-key.R)
 
 ## II. **Complete the exercises**:
    * Note that some exercises may assume you have variables in your environment from the lessons. 

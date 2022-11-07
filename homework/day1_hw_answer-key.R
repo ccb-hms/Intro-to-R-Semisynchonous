@@ -1,4 +1,4 @@
-## Day 1 Homework Exercises
+## Part 1 In-Lesson Exercises
 
 ### R syntax and data structures
 

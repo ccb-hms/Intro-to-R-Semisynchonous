@@ -4,47 +4,46 @@
 
 3.1. [Plotting with the ggplot2 package](../lessons/11_ggplot2.md)
       <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
           <br>One of the greatest advantages of R is its ability to create detailed plots and data visualizations.<br><br>This lesson will cover:<br>
             - Visualizing data using ggplot2<br>
             - Customizing the appearance of plots<br>
         </details>
+        
  3.2 [Using custom functions for consistent plots](../lessons/11b_Custom_Functions_ggplot2.md)
       <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
           <br>When creating your plots in ggplot2 you may want to have consistent formatting (using <code>theme()</code> functions) across your plots, e.g. if you are generating plots for a manuscript. <br><br>This lesson will cover:<br>
             - Developing a custom function for creating consistently formatted plots<br>
         </details>
+
 3.3 [Generating a boxplot with ggplot2](../lessons/12_boxplot_exercise.md)
     <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
         <br>Previously, you created a scatterplot using ggplot2. However, ggplot2 can be used to create a very wide variety of plots. One of the other frequently used plots you can create with ggplot2 is a barplot.<br><br>This lesson will cover:<br>
             - Creating and customizing a barplot using ggplot2<br>
         </details>
+
 3.4 [Writing to file and exporting plots](../lessons/13_exporting_data_and_plots.md)
         <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
             <br>Now that you have completed some analysis in R, you will need to eventually export that work out of R/RStudio. R provides lots of flexibility in what and how you export your data and plots.<br><br>This lesson will cover:<br>
             - Exporting your figures from R using a variety of file formats<br>
             - Writing your data from R to a file<br>
         </details>
+
 3.5 [Finding help](../lessons/14_finding_help.md)
         <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
             <br>Hopefully, this course has given you the basic tools you need to be successful when using R. However, it would be impossible to cover every aspect of R and you will need to be able to troubleshoot future issues as they arise.<br><br>This lesson will cover:<br>
             - Suggestions for how to best ask for help<br>
             - Where to look for help<br>
         </details>
+
 3.6 [Tidyverse](../lessons/15_tidyverse.md)
         <details>
-        <summary><i>Click here for a preview of this lesson</i></summary>
             <br>The <a href="https://tidyverse.tidyverse.org/articles/paper.html">Tidyverse suite of integrated packages</a> are designed to work together to make common data science operations more user friendly. Tidyverse is becoming increasingly prevalent and it is necessary that R users are conversant in the basics of Tidyverse. We have already used two Tidyverse packages in this workshop (<code>ggplot2</code> and <code>purrr</code>) and in this lesson we will learn some key features from a few additional packages that make up Tidyverse. <br><br>This lesson will cover:<br>
             - Usage of pipes for connecting together multiple commands<br>
             - Tibbles for two-dimensional data storage<br>
             - Data wrangling within Tidyverse <br>
         </details>
     
-* [Solution to exercises in above lessons](../homework/day3_hw_answer-key.R)
+[Solution to exercises in above lessons](../homework/day3_hw_answer-key.R)
 
 ## II. **Complete the exercises**:
    * Note that some exercises assume you have variables in your environment from the lessons. 

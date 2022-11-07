@@ -1,4 +1,4 @@
-## Day 2 Homework Exercises
+## Part 2 In-Lesson Exercises
 
 ### Data wrangling
 
